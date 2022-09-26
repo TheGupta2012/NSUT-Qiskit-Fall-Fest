@@ -24,8 +24,9 @@ Starting from October 3rd. The details and timeline about the event are going to
 There will be multiple _offline workshops_ given by the Qiskit Advocates [Harshit Gupta](https://www.linkedin.com/in/thegupta2012/) and [Vardaan Sahgal](https://www.linkedin.com/in/vardaansahgal/) focussing on Introduction to Quantum Computing with Qiskit. Stay tuned for the further details about the workshop schedule.
 
 ## <img src=https://user-images.githubusercontent.com/57539040/192016639-1a0305f1-87b1-4c6b-805d-e881c5a20ee0.png height=4% width=4% align=center> Challenge Details - QickStart <img src=https://user-images.githubusercontent.com/57539040/192019457-1ee3cafc-e774-432e-98bd-230e3840c2b0.png height=4% width=4% align=center>
-- Soon!
---------------------------------
+- An online challenge with a mix of quantum and classical problems for you to solve! Read the [rules of challenge](QickStart%20-%20Rules%20and%20Guidelines.pdf) before registering.
+- More details soon!
+
 ## <img src=https://user-images.githubusercontent.com/57539040/192016639-1a0305f1-87b1-4c6b-805d-e881c5a20ee0.png height=4% width=4% align=center> Schedule
 
 We are proud to welcome you to the NSUT's Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of learning, guest speakers, and more for you. Stay tuned for the schedule updates! 

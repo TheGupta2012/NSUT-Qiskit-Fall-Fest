@@ -15,36 +15,34 @@ Starting from October 3rd. The details and timeline about the event are going to
 --------------------------------
 ## <img src=https://user-images.githubusercontent.com/57539040/192016639-1a0305f1-87b1-4c6b-805d-e881c5a20ee0.png height=4% width=4% align=center> Official Registration
 
-- Before you register, read the full rules as provided in the registration form. This is an offline event for NSUT only, if you are not a member of the NSUT community, you may not participate in this fall fest.
-- To officially sign up, a registration would be required.
-- The link to the form is going to be posted here soon!!
+- Before you register, read the full rules as provided in the registration form. This is an **offline event for NSUT only**, if you are not a member of the NSUT community, you may not participate in this fall fest.
+- To officially sign up, a team registration would be required.
+- Please register here - [Registration Form for QickStart](https://forms.gle/Gw3Gsu3mYdUGi8R66)
 
 
-## <img src=https://user-images.githubusercontent.com/57539040/192016639-1a0305f1-87b1-4c6b-805d-e881c5a20ee0.png height=4% width=4% align=center> Workshops
-There will be multiple _offline workshops_ given by the Qiskit Advocates [Harshit Gupta](https://www.linkedin.com/in/thegupta2012/) and [Vardaan Sahgal](https://www.linkedin.com/in/vardaansahgal/) focussing on Introduction to Quantum Computing with Qiskit. Stay tuned for the further details about the workshop schedule.
+## <img src=https://user-images.githubusercontent.com/57539040/192016639-1a0305f1-87b1-4c6b-805d-e881c5a20ee0.png height=4% width=4% align=center> Workshops Details
+- There will be multiple _offline workshops_ given by the Qiskit Advocates [Harshit Gupta](https://www.linkedin.com/in/thegupta2012/) and [Vardaan Sahgal](https://www.linkedin.com/in/vardaansahgal/) focussing on Introduction to Quantum Computing with Qiskit. 
+- [Workshop and Event Schedule](https://www.instagram.com/p/CjARS1IOI_L/?utm_source=ig_web_copy_link) contains all the details related to the same.
 
 ## <img src=https://user-images.githubusercontent.com/57539040/192016639-1a0305f1-87b1-4c6b-805d-e881c5a20ee0.png height=4% width=4% align=center> Challenge Details - QickStart <img src=https://user-images.githubusercontent.com/57539040/192019457-1ee3cafc-e774-432e-98bd-230e3840c2b0.png height=4% width=4% align=center>
 - An online challenge with a mix of quantum and classical problems for you to solve! Read the [rules of challenge](QickStart%20-%20Rules%20and%20Guidelines.pdf) before registering.
-- More details soon!
+- The challenge is going to be hosted on [qbraid](https://qbraid.com/). You may get acquainted with the platform before the challenge starts.
+- More updates soon!
 
 ## <img src=https://user-images.githubusercontent.com/57539040/192016639-1a0305f1-87b1-4c6b-805d-e881c5a20ee0.png height=4% width=4% align=center> Schedule
 
-We are proud to welcome you to the NSUT's Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of learning, guest speakers, and more for you. Stay tuned for the schedule updates! 
+We are proud to welcome you to the NSUT's Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of learning, guest speakers, and more for you.
 
-> Discord Server Link : Soon!
+[Workshop and Event Schedule](https://www.instagram.com/p/CjARS1IOI_L/?utm_source=ig_web_copy_link) is released!
+
 
 Connect with mentors and fellow attendees over Discord! 
-
-> Qiskit Slack Link : (https://ibm.co/joinqiskitslack)
-
+> Discord Server Link : https://discord.gg/aMB2gYbz6w
 
 Join the Qiskit Slack workspace if you haven't already. 
+> Qiskit Slack Link : https://ibm.co/joinqiskitslack
 
 <br>
-
-## more details imminent!
-
-
 
 <br><br>
 # [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)

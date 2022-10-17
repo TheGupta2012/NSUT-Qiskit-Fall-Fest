@@ -27,8 +27,9 @@ Starting from October 3rd. The details and timeline about the event are going to
 ## <img src=https://user-images.githubusercontent.com/57539040/192016639-1a0305f1-87b1-4c6b-805d-e881c5a20ee0.png height=4% width=4% align=center> Challenge Details - QickStart <img src=https://user-images.githubusercontent.com/57539040/192019457-1ee3cafc-e774-432e-98bd-230e3840c2b0.png height=4% width=4% align=center>
 - An online challenge with a mix of quantum and classical problems for you to solve! Read the [rules of challenge](QickStart%20-%20Rules%20and%20Guidelines.pdf) before registering.
 - The challenge is going to be hosted on [qbraid](https://qbraid.com/). You may get acquainted with the platform before the challenge starts.
-- Date of Challenge : 12th October, 2022
-- Duration : at least 24 hours (subject to change)
+- Start Date : **17th October, 2022 | 6 PM IST**
+- End : **22nd October, 2022 | 6 PM IST**
+
 
 ## <img src=https://user-images.githubusercontent.com/57539040/192016639-1a0305f1-87b1-4c6b-805d-e881c5a20ee0.png height=4% width=4% align=center> Schedule
 
